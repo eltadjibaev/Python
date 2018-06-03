@@ -50,7 +50,7 @@ class LinkedList:
         print()
 
 list=LinkedList()
-for i in range(10, 60, 10):
+for i in range(60, 0, -10):
     list.push(i)
 
 #Create a loop for testing
