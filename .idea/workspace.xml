@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="610330f3-bf33-414e-a8ad-4c66c1465aef" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Singly_linked_list_python/DetectAndRemoveLoop.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,11 +14,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Reverse_group_size.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Reverse_group_size.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Singly_linked_list_python/Reverse_group_size.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="200">
               <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DetectAndRemoveLoop.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Singly_linked_list_python/DetectAndRemoveLoop.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="770">
+              <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
             </state>
           </provider>
         </entry>
@@ -49,6 +58,7 @@
         <option value="$PROJECT_DIR$/Singly_linked_list_python/django.py" />
         <option value="$PROJECT_DIR$/Singly_linked_list_python/test.py" />
         <option value="$PROJECT_DIR$/Singly_linked_list_python/Reverse_group_size.py" />
+        <option value="$PROJECT_DIR$/Singly_linked_list_python/DetectAndRemoveLoop.py" />
       </list>
     </option>
   </component>
@@ -352,6 +362,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Singly_linked_list_python/DetectAndRemoveLoop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="770">
+          <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
         </state>
       </provider>
     </entry>
